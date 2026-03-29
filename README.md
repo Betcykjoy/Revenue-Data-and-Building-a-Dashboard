@@ -1,4 +1,4 @@
-##Revenue Data and Building a Dashboard
+## Revenue Data and Building a Dashboard
 
 **Project Overview**
 This project analyzes **stock price and revenue data** for companies such as **Tesla and GameStop** and visualizes the results using Python.  
